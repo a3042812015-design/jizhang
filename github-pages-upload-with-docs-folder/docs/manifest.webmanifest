@@ -1,0 +1,30 @@
+{
+  "name": "\u6bcf\u6708 20 \u53f7\u8bb0\u8d26",
+  "short_name": "\u8bb0\u8d26",
+  "description": "\u6309\u6bcf\u6708 20 \u53f7\u53d1\u85aa\u65e5\u7ba1\u7406\u6d88\u8d39\u3001\u5269\u4f59\u91d1\u989d\u548c\u50a8\u84c4\u7ed3\u8f6c\u3002",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

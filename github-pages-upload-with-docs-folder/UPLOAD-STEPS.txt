@@ -1,0 +1,15 @@
+Upload the docs folder in this package to the root of your GitHub repository.
+
+Expected repository structure:
+
+docs/
+  .nojekyll
+  index.html
+  styles.css
+  web-app.js
+  manifest.webmanifest
+  service-worker.js
+  icons/
+
+Do not upload only the files inside docs to the repository root.
+Your GitHub Pages log shows the source is ./docs, so GitHub must see a docs folder at the repository root.
